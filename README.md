@@ -1,5 +1,6 @@
 $$
 ### Conformal-Demand-Forecast
+\scriptsize
 Code Implementation: \
 Improving urban water demand forecast using conformal prediction-based hybrid machine learning models \
 Oluwabunmi Iwakin; Farrah Moazeni, PhD \
